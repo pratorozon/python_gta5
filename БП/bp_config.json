@@ -1,0 +1,302 @@
+{
+  "vip": true,
+  "x2": true,
+  "hide_done": true,
+  "tasks": {
+    "Легкие||лотерея": {
+      "progress": 0,
+      "done": false,
+      "favorite": true
+    },
+    "Легкие||сайт": {
+      "progress": 0,
+      "done": false,
+      "favorite": true
+    },
+    "Легкие||лайк в Match": {
+      "progress": 0,
+      "done": false,
+      "favorite": true
+    },
+    "Легкие||Brawl (рация)": {
+      "progress": 0,
+      "done": false,
+      "favorite": true
+    },
+    "Легкие||кинотеатр": {
+      "progress": 0,
+      "done": false,
+      "favorite": false
+    },
+    "Легкие||киностудия": {
+      "progress": 0,
+      "done": false,
+      "favorite": true
+    },
+    "Легкие||футбол": {
+      "progress": 0,
+      "done": false,
+      "favorite": true
+    },
+    "Легкие||автосервис (СТО)": {
+      "progress": 0,
+      "done": false,
+      "favorite": true
+    },
+    "Легкие||тир": {
+      "progress": 0,
+      "done": false,
+      "favorite": true
+    },
+    "Легкие||пинг-понг (теннис)": {
+      "progress": 0,
+      "done": false,
+      "favorite": true
+    },
+    "Легкие||ферма": {
+      "progress": 0,
+      "done": false,
+      "favorite": true
+    },
+    "Легкие||Нули в казино": {
+      "progress": 0,
+      "done": false,
+      "favorite": false
+    },
+    "Легкие||ставка в колесе": {
+      "progress": 0,
+      "done": false,
+      "favorite": true
+    },
+    "Легкие||баскетбол": {
+      "progress": 0,
+      "done": false,
+      "favorite": true
+    },
+    "Легкие||большой теннис (тенннис)": {
+      "progress": 0,
+      "done": false,
+      "favorite": true
+    },
+    "Легкие||дартс": {
+      "progress": 0,
+      "done": false,
+      "favorite": true
+    },
+    "Легкие||волейбол": {
+      "progress": 0,
+      "done": false,
+      "favorite": true
+    },
+    "Легкие||платёж по лизингу": {
+      "progress": 0,
+      "done": false,
+      "favorite": false
+    },
+    "Среднее||стройка": {
+      "progress": 0,
+      "done": false,
+      "favorite": true
+    },
+    "Среднее||порт": {
+      "progress": 0,
+      "done": false,
+      "favorite": true
+    },
+    "Среднее||шахта": {
+      "progress": 0,
+      "done": false,
+      "favorite": true
+    },
+    "Среднее||авторбус": {
+      "progress": 0,
+      "done": false,
+      "favorite": true
+    },
+    "Среднее||задание клуба": {
+      "progress": 0,
+      "done": false,
+      "favorite": true
+    },
+    "Среднее||метро": {
+      "progress": 0,
+      "done": false,
+      "favorite": true
+    },
+    "Среднее||рыбалка": {
+      "progress": 0,
+      "done": false,
+      "favorite": true
+    },
+    "Среднее||Кинуть мяч": {
+      "progress": 0,
+      "done": false,
+      "favorite": false
+    },
+    "Среднее||дрессировка": {
+      "progress": 0,
+      "done": false,
+      "favorite": false
+    },
+    "Среднее||тренажерный зал (ТЗ)": {
+      "progress": 0,
+      "done": false,
+      "favorite": false
+    },
+    "Среднее||сокровище (клад)": {
+      "progress": 0,
+      "done": false,
+      "favorite": false
+    },
+    "Среднее||охота": {
+      "progress": 0,
+      "done": false,
+      "favorite": true
+    },
+    "Среднее||дальнобойщик": {
+      "progress": 0,
+      "done": false,
+      "favorite": true
+    },
+    "Совместные||мафия": {
+      "progress": 0,
+      "done": false,
+      "favorite": true
+    },
+    "Совместные||картинг": {
+      "progress": 0,
+      "done": false,
+      "favorite": true
+    },
+    "Совместные||гонка": {
+      "progress": 0,
+      "done": false,
+      "favorite": true
+    },
+    "Совместные||тренировочный комплекс (ТК)": {
+      "progress": 0,
+      "done": false,
+      "favorite": true
+    },
+    "Совместные||арена": {
+      "progress": 0,
+      "done": false,
+      "favorite": true
+    },
+    "Совместные||Дэнс Баттлах (танцы)": {
+      "progress": 0,
+      "done": false,
+      "favorite": false
+    },
+    "Совместные||армрестлинг": {
+      "progress": 0,
+      "done": false,
+      "favorite": true
+    },
+    "Совместные||автосервис (механик)": {
+      "progress": 0,
+      "done": false,
+      "favorite": true
+    },
+    "Долго||почта": {
+      "progress": 0,
+      "done": false,
+      "favorite": false
+    },
+    "Долго||открыть кейс": {
+      "progress": 0,
+      "done": false,
+      "favorite": false
+    },
+    "Долго||Заказ материалов для бизнеса": {
+      "progress": 0,
+      "done": false,
+      "favorite": false
+    },
+    "Долго||пожарный": {
+      "progress": 0,
+      "done": false,
+      "favorite": true
+    },
+    "Долго||смена внешности": {
+      "progress": 0,
+      "done": false,
+      "favorite": false
+    },
+    "Долго||аирдроп": {
+      "progress": 0,
+      "done": false,
+      "favorite": false
+    },
+    "Фракционные||граффити": {
+      "progress": 0,
+      "done": false,
+      "favorite": false
+    },
+    "Фракционные||контрабанда": {
+      "progress": 0,
+      "done": false,
+      "favorite": false
+    },
+    "Фракционные||капт  ибизвар": {
+      "progress": 0,
+      "done": false,
+      "favorite": false
+    },
+    "Фракционные||ВЗХ": {
+      "progress": 0,
+      "done": false,
+      "favorite": false
+    },
+    "Фракционные||выдать 5 медкарт (EMS)": {
+      "progress": 0,
+      "done": false,
+      "favorite": false
+    },
+    "Фракционные||15 вызовов (EMS)": {
+      "progress": 0,
+      "done": false,
+      "favorite": false
+    },
+    "Фракционные||40 объявлений в WN": {
+      "progress": 0,
+      "done": false,
+      "favorite": false
+    },
+    "Фракционные||ограбление домов и угон авто": {
+      "progress": 0,
+      "done": false,
+      "favorite": false
+    },
+    "Фракционные||5 кодов": {
+      "progress": 0,
+      "done": false,
+      "favorite": false
+    },
+    "Фракционные||2 автомобиля на учёт (LSPD)": {
+      "progress": 0,
+      "done": false,
+      "favorite": false
+    },
+    "Фракционные||1 арест в (КПЗ)": {
+      "progress": 0,
+      "done": false,
+      "favorite": false
+    },
+    "Фракционные||Выкупить двух человек из (КПЗ)": {
+      "progress": 0,
+      "done": false,
+      "favorite": false
+    },
+    "Фракционные||трава в теплице": {
+      "progress": 0,
+      "done": false,
+      "favorite": false
+    },
+    "Фракционные||обезбол в лаборатории": {
+      "progress": 0,
+      "done": false,
+      "favorite": false
+    }
+  }
+}
