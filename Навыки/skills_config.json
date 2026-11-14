@@ -1,0 +1,79 @@
+{
+    "__globals__": {
+        "vip": true,
+        "x2": false,
+        "font_size": 8
+    },
+    "Рыбак": {
+        "level": 6,
+        "current": 0
+    },
+    "Охотник": {
+        "level": 3,
+        "current": 0
+    },
+    "Кладоискатель": {
+        "level": 0,
+        "current": 60
+    },
+    "Фермер": {
+        "level": 1,
+        "current": 20
+    },
+    "Строитель": {
+        "level": 5,
+        "current": 0
+    },
+    "Шахтер": {
+        "level": 0,
+        "current": 404
+    },
+    "Работник порта": {
+        "level": 1,
+        "current": 114
+    },
+    "Таксист": {
+        "level": 5,
+        "current": 0
+    },
+    "Водолаз": {
+        "level": 1,
+        "current": 0
+    },
+    "Инкассатор": {
+        "level": 5,
+        "current": 0
+    },
+    "Водитель автобуса": {
+        "level": 5,
+        "current": 0
+    },
+    "Механик": {
+        "level": 3,
+        "current": 0
+    },
+    "Пожарный": {
+        "level": 2,
+        "current": 370
+    },
+    "Дальнобойщик": {
+        "level": 5,
+        "current": 0
+    },
+    "Доставщик": {
+        "level": 2,
+        "current": 78
+    },
+    "Почтальон": {
+        "level": 2,
+        "current": 4
+    },
+    "Электрик": {
+        "level": 2,
+        "current": 170
+    },
+    "Подрядчик": {
+        "level": 5,
+        "current": 0
+    }
+}
